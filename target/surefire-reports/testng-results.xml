@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-03T08:15:53 IST" name="Surefire suite" finished-at="2024-10-03T08:16:01 IST" duration-ms="8622">
+    <groups>
+    </groups>
+    <test started-at="2024-10-03T08:15:53 IST" name="Surefire test" finished-at="2024-10-03T08:16:01 IST" duration-ms="8622">
+      <class name="naukriProfile.com.NaukriUpdateTest">
+        <test-method is-config="true" signature="applicationLaunch()[pri:0, instance:naukriProfile.com.NaukriUpdateTest@2f112965]" started-at="2024-10-03T08:15:53 IST" name="applicationLaunch" finished-at="2024-10-03T08:15:58 IST" duration-ms="4799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applicationLaunch -->
+        <test-method signature="loginToApplication()[pri:1, instance:naukriProfile.com.NaukriUpdateTest@2f112965]" started-at="2024-10-03T08:15:58 IST" name="loginToApplication" finished-at="2024-10-03T08:15:58 IST" duration-ms="341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApplication -->
+        <test-method signature="updateProfile()[pri:2, instance:naukriProfile.com.NaukriUpdateTest@2f112965]" started-at="2024-10-03T08:15:58 IST" name="updateProfile" finished-at="2024-10-03T08:16:01 IST" duration-ms="2668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateProfile -->
+        <test-method signature="logout()[pri:3, instance:naukriProfile.com.NaukriUpdateTest@2f112965]" started-at="2024-10-03T08:16:01 IST" name="logout" finished-at="2024-10-03T08:16:01 IST" duration-ms="609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:naukriProfile.com.NaukriUpdateTest@2f112965]" started-at="2024-10-03T08:16:01 IST" name="teardown" finished-at="2024-10-03T08:16:01 IST" duration-ms="163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- naukriProfile.com.NaukriUpdateTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
